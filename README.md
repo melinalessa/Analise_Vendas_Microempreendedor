@@ -1,22 +1,15 @@
 # Projeto2_Python_basico 
 
-Iniciantes
-
 Desafio do Projeto I
 
-Passo 0 - Entender o desafio que você quer resolver
-
-Passo 1 - Organizar a pasta que terá todas informações
-
-Passo 2 - Importar as bases de dados que iremos analisar
-
-Passo 3 - Tratar / Compilar as BDs
-
+#Importar Bibliotecas & Banco Dados
+#Importar base de dados e filtrar "Vendas"
+#Analisar o produto mais Vendido (Qtd)
+#Filtrando apenas a coluna Quantidade Vendida (crescente)
 
 Desafio do Projeto II
 
-Passo 4 - Calcular o Produto mais vendido (em quantidade)
+#Analisar o produto que mais faturou (Em valor)
+#Analisar a Loja que teve o maior Faturamento
+#Análise em Gráfico/Dashboard
 
-Passo 5 - Cacalcular o produto que mais faturou (em faturamento)
-
-Passo 6 - Calcular a loja/cidade que mais vendeu (em faturamento) - criar um gráfico/ dasboard
